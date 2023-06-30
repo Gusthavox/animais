@@ -1,0 +1,10 @@
+SET NAMES utf8mb4;
+
+INSERT INTO `tb_animal` (`id`, `especie`, `raca`, `sexo`, `cor`, `nome`) VALUES
+(12,	'Gato',	'Cinza',	'M',	'cinza',	'Ranz'),
+(13,	'Bonito',	'Beleza',	'F',	'cinza',	'kitty'),
+(14,	'Gato',	'punk',	'M',	'malhado',	'loki'),
+(15,	'cachorro',	'golden',	'F',	'Amarelo',	'Paul'),
+(16,	'cachorro',	'sem',	'F',	'branco',	'Doguinha'),
+(17,	'cachorro',	'Pug',	'M',	'bege',	'Baiacu');
+

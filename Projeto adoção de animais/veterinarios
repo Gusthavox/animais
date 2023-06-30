@@ -1,0 +1,6 @@
+SET NAMES utf8mb4;
+
+INSERT INTO `tb_veterinario` (`id`, `nome`, `cpf`, `endereco`, `celular`, `idade`, `formacao`) VALUES
+(1,	'João',	202902901,	'Heitorai',	99222865,	23,	'UEG'),
+(2,	'Kátia',	26781926,	'Ceres',	99276532,	41,	'USP'),
+(3,	'Eduardo',	28391663,	'Goianésia',	994827618,	21,	'UEG');
